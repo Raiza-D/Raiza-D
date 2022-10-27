@@ -1,9 +1,13 @@
 ### Hello Universe! I'm Raiza 👋
 
 - 🔭 Full-Stack Web Developer, captivated by Front-End Development
+
 - 👩‍💻 I enjoy problem-solving and building things using code
+
 - 🔭 Next Project: My very own portfolio
+
 - 😄 Pronouns: She/Her/Hers
+
 - ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets.
 
 <!--
