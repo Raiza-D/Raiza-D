@@ -1,6 +1,6 @@
-### Hello Universe! I'm Raiza 👋
+### Hello, Universe! I'm Raiza 👋
 
-- 🔭 Full-Stack Web Developer, captivated by Front-End Development
+- 🔭 Full-Stack Web Developer, captivated by Front-End Development and design
 
 - 👩‍💻 I enjoy problem-solving and building things using code
 
@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: She/Her/Hers
 
-- ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets.
+- ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets
 
 <!--
 **Raiza-D/Raiza-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
