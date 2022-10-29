@@ -23,7 +23,7 @@ Hello, Universe! I'm Raiza 👋
 
 **Databases & Testing**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.png" alt="chai" width="40" height="40"/>
   
 
 <!--
