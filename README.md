@@ -13,7 +13,7 @@
 
 ## Languages
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="hhttps://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a> 
 
 <!--
 **Raiza-D/Raiza-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
