@@ -11,6 +11,11 @@ Hello, Universe! I'm Raiza 👋
 
 - ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets
 
+- 🃏 Dev joke to make your day:
+  What does a developer do at the end of a big project?
+  
+  She gits committed.
+
 
 **Languages**
 
