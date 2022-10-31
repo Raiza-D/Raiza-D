@@ -5,13 +5,13 @@ Hello, Universe! I'm Raiza 👋
 
 - 👩‍💻 I enjoy problem-solving and building things using code
 
-- 🔭 Next Project: My very own portfolio page
+- 🔭 Next Project: My own portfolio page
 
 - 😄 Pronouns: She/Her/Hers
 
 - ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets
 
-- 🃏 For some laughs:
+- 🃏 For laughs:
 
   What does a developer do at the end of a big project?
   
