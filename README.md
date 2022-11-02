@@ -5,7 +5,7 @@ Hello, Universe! I'm Raiza 👋
 
 - 👩‍💻 I enjoy problem-solving and building things using code
 
-- 🔭 Next Project: My own portfolio page
+- ➡️ Next Project: My own portfolio page
 
 - 😄 Pronouns: She/Her/Hers
 
