@@ -7,7 +7,7 @@ Hello, Universe! I'm Raiza 👋
 
 - ➡️ Next Project: My own portfolio page
 
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I re-discovered Lego a few years ago and own a few Architecture sets
 
