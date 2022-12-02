@@ -22,7 +22,7 @@ Hello, Universe! I'm Raiza 👋
 
 !["HTML5"](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 !["CSS3"](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-!["JavaScript"](https://img.shields.io/badge/-JavaScript-5c5655?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+!["JavaScript"](https://img.shields.io/badge/-JavaScript-5C5655?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 !["Ruby"](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 !["Python"](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=F4EE2A&style=for-the-badge)
 
