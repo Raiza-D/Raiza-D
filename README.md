@@ -24,7 +24,7 @@ Hello, Universe! I'm Raiza 👋
 !["CSS3"](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 !["JavaScript"](https://img.shields.io/badge/-JavaScript-5c5655?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 !["Ruby"](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
-!["Python"](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=yellow&style=for-the-badge)
+!["Python"](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=F4EE2A&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain-wordmark.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 
