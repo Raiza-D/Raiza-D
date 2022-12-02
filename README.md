@@ -56,6 +56,7 @@ Hello, Universe! I'm Raiza 👋
 !["Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 !["Trello"](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 
+![Visitor Count](https://profile-counter.glitch.me/{Raiza-D}/count.svg)
 
 <!--
 **Raiza-D/Raiza-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
