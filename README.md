@@ -43,6 +43,8 @@ Hello, Universe! I'm Raiza 👋
 
 ## Databases & Testing
 
+!["PostgreSQL"](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> <img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" alt="chai" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" alt="cypress" width="40" height="40"/>
 
 ## Tools/Platforms
