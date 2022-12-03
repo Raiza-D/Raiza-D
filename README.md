@@ -44,7 +44,7 @@ Hello, Universe! I'm Raiza 👋
 !["Jest"](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 !["Cypress"](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 !["React Testing Library"](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
-!["RSpec"](https://img.shields.io/badge/-RSpec-CC0000?logo=data:https://rspec.info/images/logo_ogp.png&logoColor=white&style=for-the-badge)
+!["RSpec"](https://img.shields.io/badge/-RSpec-CC0000?logo=https://rspec.info/images/logo_ogp.png&logoColor=white&style=for-the-badge)
 
 ## Tools/Platforms
 
