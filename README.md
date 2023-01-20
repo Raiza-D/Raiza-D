@@ -5,7 +5,7 @@ Hello, Universe! I'm Raiza 👋
 
 - 👩‍💻 I enjoy problem-solving and building things using code
 
-- ➡️ Next Project: Top Secret Landing Page
+- ➡️ Next Project: Birthday landing page for a friend
 
 - 😄 Pronouns: She/Her
 
