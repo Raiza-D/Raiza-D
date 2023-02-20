@@ -5,7 +5,7 @@ Hello, Universe! I'm Raiza 👋
 
 - 👩‍💻 I enjoy problem-solving and building things using code
 
-- ➡️ Next Project: TBA (Brainstorming a few ideas - from a weather API to an Adele fan page.)
+- ➡️ Next Project: Adele fan page
 
 - 😄 Pronouns: She/Her
 
